@@ -1907,3 +1907,4 @@ The following settings have been applied:
 [2025.02.01-12.57.49:224][117]LoadingProfiler: Shutdown
 [2025.02.01-12.57.49:224][117]TimingProfiler: Shutdown
 [2025.02.01-12.57.49:352][117]LogOpenImageDenoise: OIDN shutting down
+[2025.02.01-13.02.30:277][117]LogDerivedDataCache: C:/Users/uchenikit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
